@@ -1,0 +1,7 @@
+Paso 1: Identificar posibles entidades
+Cliente - Los clientes pueden ser los estudiantes o los que quieran acceder a comprar un objeto de merchandising
+Item - Un item es cada objeto de merchandising, va a pertenecer a un lote el cual va a ser el control del inventario
+Método Compra - Se refiere a la compra por medio de la página, aplicación o una tienda específica
+Método Pago - son las formas de pago que se van a aceptar como efectivo o tarjeta
+Proveedor - Son los proveedores de los items sirve para llevar el control histórico de 
+Carrito -  así se va a llamar un paquete de uno o varios productos que tenga el cliente
